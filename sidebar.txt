@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[uar:home|Door43 (uar)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-uar|d43-uar repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-uar/archive/master.zip|d43-uar.zip]]
+
+**Recent Changes**
+{{changes>ns = uar}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/uar|Ethnologue data]]
+
